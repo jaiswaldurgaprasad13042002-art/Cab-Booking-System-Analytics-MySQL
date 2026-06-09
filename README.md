@@ -36,5 +36,8 @@ while the problem statements are provided separately.
 2. Execute `PROJECTDATABASE.sql` to create database and tables
 3. Refer to `PROJECTSQL.sql` for problem statements and run queries
 
+## ER Diagram
+![ER_Diagram](Cab_diagram.png)
+
 ## Conclusion
 This project demonstrates practical SQL skills including database design and business data analysis.
